@@ -28,3 +28,10 @@
     right: 100px;
     font-size: 20px;
 }
+.categorias{
+    font-size: 20PX;
+    color: #111827;
+    position: absolute;
+    top: 15%;
+    line-height: 250%;
+}
